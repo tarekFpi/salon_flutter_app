@@ -1,17 +1,14 @@
-# salon_booking_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Saloon-booking-App
+
+![image](https://github.com/user-attachments/assets/66dd0a26-5d5e-4a3d-9f34-1d84ca56f00b)
+
+![image](https://github.com/user-attachments/assets/d7410b24-6a31-47bf-a9c8-d47835e824bc)
+
+![image](https://github.com/user-attachments/assets/709cca4e-1bbb-47d6-aec7-06179617c928)
+
+![image](https://github.com/user-attachments/assets/aba60072-fb14-4909-824f-50bc93a5da17)
+
+
+
+
