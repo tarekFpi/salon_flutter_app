@@ -1,5 +1,5 @@
 
-# Saloon-booking-App
+# Saloon-booking-App screenshot
 
 ![image](https://github.com/user-attachments/assets/66dd0a26-5d5e-4a3d-9f34-1d84ca56f00b)
 
